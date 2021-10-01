@@ -1,12 +1,12 @@
 <p align="center"><img src="./DiaBLE/Assets.xcassets/AppIcon.appiconset/Icon.png" width="25%" /></p>
 <br><br>
-<p align="center"><img src="https://pbs.twimg.com/media/FAmZtdjXsAIp1u_format=jpg" width="25%" align="middle" />&nbsp;&nbsp;<img src="https://pbs.twimg.com/media/FAmZvT_WUAA8YNqformat=png" width="12.5%" align="middle" /></p>
+<p align="center"><img src="https://pbs.twimg.com/media/FAmZtdjXsAIp1u_?format=jpg" width="25%" align="middle" />&nbsp;&nbsp;<img src="https://pbs.twimg.com/media/FAmZvT_WUAA8YNq?format=png" width="12.5%" align="middle" /></p>
 
 <h4 align ="center">Hello Libre 3</h4>
 <br><br>
 
 
-The project started as a single script for the iPad Swift Playgrounds to test the workings of the several troublesome BLE devices I bought, mainly the **Bubble** and the **MiaoMiao**. It was then quickly converted to an app when the **Libre 2** came out at last by using a standard Xcode template: it should compile fine without external dependencies just after changing the _Bundle Identifier_ in the _General_ panel and the _Team_ in the _Signing and Capabilities_ tab of Xcode -- Spike users know already very well what that means... ;-)
+The project started as a single script for the iPad Swift Playgrounds to test the workings of the several troublesome BLE devices I bought, mainly the **Bubble** and the **MiaoMiao**. It was then quickly converted to an app when the **Libre 2** came out at last by using a standard Xcode template: it should compile fine without external dependencies just after changing the _Bundle Identifier_ in the _General_ panel of the _Targets_ settings and the _Team_ in the _Signing and Capabilities_ tab of Xcode -- Spike and xDrip4iO5 users know already very well what that means... ;-)
 
 I am targeting only the latest betas of Xcode and iOS.
 
